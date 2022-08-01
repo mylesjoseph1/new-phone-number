@@ -1,0 +1,22 @@
+{
+  "name": "simple-react-phone-number-input-example-forked",
+  "version": "0.0.0",
+  "description": "Demonstrates a bug",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/zKrK5YLDZ",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-phone-number-input": "2.3.21"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
